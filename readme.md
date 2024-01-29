@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: dominiquesavio2003@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://dscrowdy-rbp9.onrender.com/)
 
 </p>
@@ -110,13 +110,13 @@
 
 <p align="center">
   <a href="https://github.com/saviomds/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saviomds&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saviomds&theme=radical&border=7F3FBF&background=0D1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/saviomds">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saviomds&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saviomds&theme=radical"/>
   </a>
 </p>
 
@@ -127,4 +127,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saviomds&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![savio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saviomds&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
